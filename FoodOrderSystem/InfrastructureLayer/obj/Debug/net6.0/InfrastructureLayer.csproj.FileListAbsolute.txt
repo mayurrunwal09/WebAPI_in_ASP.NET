@@ -1,0 +1,34 @@
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.AssemblyReference.cache
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfoInputs.cache
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfo.cs
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.deps.json
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.runtimeconfig.json
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.dll
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.pdb
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\DomainLayer.dll
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\DomainLayer.pdb
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CopyComplete
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.dll
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\refint\InfrastructureLayer.dll
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.pdb
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.genruntimeconfig.cache
+F:\Triveni\Projects\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\ref\InfrastructureLayer.dll
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.deps.json
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.runtimeconfig.json
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.dll
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.pdb
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.AssemblyReference.cache
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfoInputs.cache
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfo.cs
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CopyComplete
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.dll
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\refint\InfrastructureLayer.dll
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.pdb
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.genruntimeconfig.cache
+D:\Practice Api\FoodOrderSystem\InfrastructureLayer\obj\Debug\net6.0\ref\InfrastructureLayer.dll

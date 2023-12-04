@@ -1,0 +1,24 @@
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+F:\Triveni\Projects\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
+D:\Practice Api\FoodOrderSystem\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\Practice Api\FoodOrderSystem\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Practice Api\FoodOrderSystem\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\Practice Api\FoodOrderSystem\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll

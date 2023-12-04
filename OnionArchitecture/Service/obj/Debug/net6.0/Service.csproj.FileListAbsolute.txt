@@ -1,0 +1,47 @@
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\bin\Debug\net6.0\Service.dll
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\bin\Debug\net6.0\Repo.dll
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\bin\Debug\net6.0\Repo.pdb
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.dll
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\TGSUser070\Desktop\MVC JQuery And Ajax\OnionArchitecture\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Service.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Repo.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Repo.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\ref\Service.dll
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Domain.dll
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Repo.dll
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Domain.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\bin\Debug\net6.0\Repo.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.dll
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\refint\Service.dll
+D:\Cdrive User\ASP.NET CORE WEB API\OnionArchitecture\Service\obj\Debug\net6.0\Service.pdb
